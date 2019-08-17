@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="24-EcoleMunicipaleDumarsaisEstime" size="5.000000 3.333333" />
+    <ImageTarget name="23-ChampDeMars2" size="5.000000 3.177215" />
+    <ImageTarget name="22-EcoleMunicipalePortailLeoganeCoursEcole" size="5.000000 3.177215" />
+    <ImageTarget name="21-EcoleCommunaleFortMercrediFouleEbahie" size="5.000000 3.177215" />
+    <ImageTarget name="19-EcoleDevasteeJesusDePrague" size="5.000000 7.501388" />
+    <ImageTarget name="18-ChampDeMars" size="5.000000 3.333333" />
+    <ImageTarget name="17-ReminiscenceTheatrale" size="5.000000 3.333333" />
+    <ImageTarget name="16-EcoleMunicipalePortailLeogane" size="5.000000 3.333333" />
+    <ImageTarget name="15-EcoleMunicipaleStMartin" size="5.000000 3.332344" />
+    <ImageTarget name="14-AtelieEcritureEcoleMunicipalePortailLeogane" size="5.000000 3.333671" />
+    <ImageTarget name="13-Damien" size="5.000000 3.332344" />
+    <ImageTarget name="12-CampFortuneStadeSylvioCator" size="5.000000 3.333333" />
+    <ImageTarget name="11-EcoleCommunaleFortMercredi" size="5.000000 3.333333" />
+    <ImageTarget name="00-Affiche82018" size="5.000000 7.727273" />
+    <ImageTarget name="CATALOGUE_EXPO" size="5.000000 3.933926" />
+    <ImageTarget name="News2_Page1" size="5.000000 7.076271" />
+    <ImageTarget name="News1_Page4" size="5.000000 6.209781" />
+    <ImageTarget name="News1_Page3" size="5.000000 6.364222" />
+    <ImageTarget name="News1_Page2" size="5.000000 6.466667" />
+    <ImageTarget name="News1_Page1" size="5.000000 6.348684" />
+  </Tracking>
+</QCARConfig>
